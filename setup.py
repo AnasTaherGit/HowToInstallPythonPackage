@@ -5,6 +5,6 @@ setup(name='Hello',
       description='A Hello World package for testing setup ',
       author='Taher Anas',
       author_email='taheranas24@gmail.com',
-      url='',
-      packages=['distutils', 'distutils.command'],
+      url='https://github.com/AnasTaherGit/HowToInstallPythonPackage.git',
+      packages=['src'],
      )
