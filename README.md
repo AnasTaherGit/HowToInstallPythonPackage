@@ -1,6 +1,6 @@
-# HowToInstallPythonPackage
+# How To Install Python Packages
 
-a Hello World package for testing python packages installation
+a Hello World package to get introduced to the python installation process
 
 ## Installation procedure for Windows
 
