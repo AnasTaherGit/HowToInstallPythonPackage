@@ -1,4 +1,4 @@
-def hello(Name):
-    print("Hello ",Name)
+def hello(Name="World"):
+    print("Hello",Name)
 
     

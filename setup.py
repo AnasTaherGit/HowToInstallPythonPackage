@@ -6,5 +6,6 @@ setup(name='Hello',
       author='Taher Anas',
       author_email='taheranas24@gmail.com',
       url='https://github.com/AnasTaherGit/HowToInstallPythonPackage.git',
-      packages=['src'],
+      package_dir={'Hello':'src'},
+      packages=['Hello'] 
      )

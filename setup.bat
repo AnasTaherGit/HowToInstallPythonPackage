@@ -6,3 +6,5 @@ call .\.venv\Scripts\activate
 @REM pip install wheel
 @REM pip install -r .\requirements.txt
 @REM @echo off
+:: Install the Hello Package
+python setup.py install
