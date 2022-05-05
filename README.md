@@ -18,7 +18,7 @@ python -m venv .venv
 python setup.py install
 ```
 
-Or you can instead run the batch file 'Setup.bat'
+Or you can instead run the batch file 'setup.bat'
 
 ```batch
 setup.bat
